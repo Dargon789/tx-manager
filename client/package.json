@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "0xsequence": "^1.9.30",
-    "@0xsequence/design-system": "^1.7.1",
+    "@0xsequence/design-system": "^1.9.0",
     "ethers": "5.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
