@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@0xsequence/auth": "^2.1.7",
-    "@0xsequence/network": "^2.1.7",
+    "@0xsequence/network": "^2.3.28",
     "cors": "^2.8.5",
     "dotenv": "^17.0.1",
     "ethers": "6.13.2",
